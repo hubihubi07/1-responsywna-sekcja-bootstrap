@@ -1,0 +1,41 @@
+i {
+    color: rgb(206, 123, 15);
+    font-size: 3.5em;
+}
+
+.g {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.952);
+}
+
+h2 {
+    color: rgb(87, 86, 86);
+}
+
+h3 {
+    width: 100%;
+    margin-top: 8px;
+    color: rgb(87, 86, 86);
+}
+
+hr {
+    position: absolute;
+    left: 35%;
+    right: 35%;
+    width: 30%;
+    color: rgb(87, 86, 86);
+}
